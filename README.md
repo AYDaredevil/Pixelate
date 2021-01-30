@@ -5,7 +5,7 @@ So for that different codes are written in matlab, main codes are of adjacency m
 dijkshtra algorithm.
 Images were taken from the webcam placed over arena.
 And on them image processing was done.
-Steps 
+## Steps 
 1. Current Color Detection
 2. Treating Arena as graph
 3. Finding nearest node using Djikshtra
